@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+  <filename>https://nnts.imgix.net/uploadedfiles/fcbd87bc-64f0-4ba7-8d88-a4ff7110bfda/PredictionImages/1792196355.jpeg?expires=1661777266&amp;or=0&amp;s=e5e33c6910dc9c1c753788a47809845e</filename>
+  <object>
+    <name>BIN_ID</name>
+    <bndbox>
+      <xmin>1032</xmin>
+      <ymin>573</ymin>
+      <xmax>1090</xmax>
+      <ymax>611</ymax>
+    </bndbox>
+    <ocr_text>A25</ocr_text>
+    <score>0.860919</score>
+  </object>
+  <object>
+    <name>BIN_ID</name>
+    <bndbox>
+      <xmin>504</xmin>
+      <ymin>685</ymin>
+      <xmax>555</xmax>
+      <ymax>719</ymax>
+    </bndbox>
+    <ocr_text>A25</ocr_text>
+    <score>0.881511</score>
+  </object>
+  <object>
+    <name>BIN_NO</name>
+    <bndbox>
+      <xmin>1044</xmin>
+      <ymin>689</ymin>
+      <xmax>1124</xmax>
+      <ymax>736</ymax>
+    </bndbox>
+    <ocr_text>76341 9 Amesral</ocr_text>
+    <score>0.7881658</score>
+  </object>
+  <object>
+    <name>BIN_NO</name>
+    <bndbox>
+      <xmin>455</xmin>
+      <ymin>796</ymin>
+      <xmax>529</xmax>
+      <ymax>844</ymax>
+    </bndbox>
+    <ocr_text>76371 29 Anues</ocr_text>
+    <score>0.7917466</score>
+  </object>
+</annotation>
